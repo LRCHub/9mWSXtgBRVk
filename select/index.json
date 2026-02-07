@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ペトリコールについて",
+  "base_artist": "Sanghee",
+  "createdAt": "2026-02-07T09:10:43.034268Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ペトリコールについて(大人の事情ver.)",
+      "artist": "Sanghee",
+      "has_synced": false,
+      "path": "select/pl_01_ペトリコールについて(大人の事情ver.)_Sanghee.txt"
+    }
+  ]
+}
